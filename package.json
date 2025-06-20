@@ -1,0 +1,78 @@
+{
+  "name": "cursor-admin-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol server for Cursor Admin API - instant team analytics power-up for AI assistants. Monitor productivity, usage, and spending.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write 'src/**/*.{ts,js,json}'",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "cursor",
+    "cursor-ide",
+    "cursor-api",
+    "team-analytics",
+    "developer-tools",
+    "productivity",
+    "admin-tools",
+    "ai-tools",
+    "llm-tools",
+    "team-management",
+    "usage-tracking",
+    "spending-analysis"
+  ],
+  "author": {
+    "name": "James Brady",
+    "email": "james@jamesbrady.org",
+    "url": "https://jamesbrady.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.13.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.5",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
+    "@typescript-eslint/parser": "^8.20.0",
+    "eslint": "^9.17.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.4.2",
+    "ts-jest": "^29.2.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h3ro-dev/cursor-admin-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h3ro-dev/cursor-admin-mcp/issues",
+    "email": "support@cursor-admin-mcp.dev"
+  },
+  "homepage": "https://github.com/h3ro-dev/cursor-admin-mcp#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/h3ro-dev"
+  }
+}
