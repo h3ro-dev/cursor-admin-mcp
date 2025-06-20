@@ -1,5 +1,11 @@
 # Contributing to Cursor Admin MCP Server
 
+<div align="center">
+  <img src="assets/utlyze-logo.png" alt="Utlyze Logo" width="200">
+  
+  **A [Utlyze](https://utlyze.com) Open Source Project**
+</div>
+
 First off, thanks for taking the time to contribute! 🎉
 
 The following is a set of guidelines for contributing to Cursor Admin MCP Server. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.

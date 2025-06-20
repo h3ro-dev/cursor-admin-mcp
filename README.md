@@ -2,6 +2,10 @@
 
 <div align="center">
   
+  <img src="assets/utlyze-logo.png" alt="Utlyze Logo" width="300">
+  
+  ## by [Utlyze.com](https://utlyze.com)
+  
   [![npm version](https://img.shields.io/npm/v/cursor-admin-mcp.svg)](https://www.npmjs.com/package/cursor-admin-mcp)
   [![npm downloads](https://img.shields.io/npm/dm/cursor-admin-mcp.svg)](https://www.npmjs.com/package/cursor-admin-mcp)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +14,7 @@
   
   **🎮 The Team Analytics Power-Up for Your AI Assistant**
   
-  *One command, and your AI gains the ability to analyze your entire Cursor team's performance.*
+  *Brought to you by [Utlyze](https://utlyze.com) - Zero Latency Operations Through AI Employees*
   
 </div>
 
@@ -397,4 +401,16 @@ MIT License - see LICENSE file for details
 
 ---
 
-Made with ❤️ for the Cursor community
+<div align="center">
+  
+## Built by [Utlyze](https://utlyze.com)
+
+**Utlyze - Zero Latency Operations Through AI Employees**
+
+We're pioneering the future of work by creating AI employees that seamlessly integrate with your existing workflows. The Cursor Admin MCP Server is just one example of how we're making teams more efficient through intelligent automation.
+
+[Visit Utlyze.com](https://utlyze.com) | [Contact Us](mailto:support@utlyze.com) | [LinkedIn](https://linkedin.com/company/utlyze)
+
+Made with ❤️ by the Utlyze team for the Cursor community
+
+</div>

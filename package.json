@@ -31,9 +31,9 @@
     "spending-analysis"
   ],
   "author": {
-    "name": "James Brady",
-    "email": "james@jamesbrady.org",
-    "url": "https://jamesbrady.org"
+    "name": "Utlyze Team",
+    "email": "support@utlyze.com",
+    "url": "https://utlyze.com"
   },
   "license": "MIT",
   "dependencies": {
@@ -68,7 +68,7 @@
   },
   "bugs": {
     "url": "https://github.com/h3ro-dev/cursor-admin-mcp/issues",
-    "email": "support@cursor-admin-mcp.dev"
+    "email": "support@utlyze.com"
   },
   "homepage": "https://github.com/h3ro-dev/cursor-admin-mcp#readme",
   "funding": {

@@ -13,7 +13,7 @@ We release patches for security vulnerabilities. Which versions are eligible for
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: security@cursor-admin-mcp.dev
+Instead, please report them via email to: security@utlyze.com
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
